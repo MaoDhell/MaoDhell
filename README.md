@@ -19,7 +19,7 @@ to React interfaces, with a side of Unreal Engine and 3D environments.
 ---
 
 ### 📍 Medellín, Colombia
-Open to junior roles in software development, frontend, or game development.
+Open to junior roles in fullstack development or game development.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Laura_Escobar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-escobar-ruiz/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-maodhell.github.io-black?style=flat&logo=github&logoColor=white)](https://maodhell.github.io/portfolio)
