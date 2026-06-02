@@ -1,8 +1,6 @@
 ## Hi, I'm Laura 👾
 
-Software engineering student with a background in graphic design and a passion
-for building things that look as good as they work.
-
+Software engineering student with hands-on experience in graphic design and 3D production.
 I combine technical problem-solving with visual thinking from REST APIs
 to React interfaces, with a side of Unreal Engine and 3D environments.
 
