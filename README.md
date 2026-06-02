@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm Laura 👾
 
-<!--
-**MaoDhell/MaoDhell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineering student with a background in graphic design and a passion
+for building things that look as good as they work.
 
-Here are some ideas to get you started:
+I combine technical problem-solving with visual thinking from REST APIs
+to React interfaces, with a side of Unreal Engine and 3D environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech stack
+
+**Languages:** Java · JavaScript · Python  
+**Frontend:** React · HTML/CSS  
+**Backend:** Spring Boot · Node.js · REST APIs  
+**Data:** MySQL · Firebase  
+**Tools:** Git · Postman · Figma · Illustrator  
+
+---
+
+### 📍 Medellín, Colombia
+Open to junior roles in software development, frontend, or game development.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Laura_Escobar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-escobar-ruiz/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-maodhell.github.io-black?style=flat&logo=github&logoColor=white)](https://maodhell.github.io/portfolio)
